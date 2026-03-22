@@ -1,4 +1,5 @@
 import "./FormStyle.css";
+import Modal from "./Modal";
 
 export default function LoanForm() {
     return (
