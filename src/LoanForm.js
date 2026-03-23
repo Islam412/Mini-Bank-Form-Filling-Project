@@ -30,6 +30,8 @@ export default function LoanForm() {
 
                 <button id="submit-loan-btn">Submit</button>
             </form>
+
+            <Modal />
         </div>
     )
 }

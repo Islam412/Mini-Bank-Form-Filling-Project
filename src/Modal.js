@@ -1,7 +1,7 @@
 export default function Modal(){
     return (
-        <div>
-            <div>
+        <div id='modal'>
+            <div id="modal-content">
                 <h1>The Form Has Been Successfully</h1>
             </div>
         </div>
